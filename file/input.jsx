@@ -31,7 +31,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     width: '90%',
-    paddingTop:80
+    paddingTop:80,
+    position:"relative"
   },
   input: {
     flex: 1,
@@ -51,7 +52,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     position:"absolute",
     right:3,
-    top:"205%"
+    zIndex:99
   },
 });
 
