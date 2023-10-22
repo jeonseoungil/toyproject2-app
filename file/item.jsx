@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
     borderRadius: 7.5,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: 'white',
+    backgroundColor: 'gray',
     elevation: 1,
     position: "absolute",
     right: 10,

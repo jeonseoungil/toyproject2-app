@@ -62,9 +62,9 @@ const styles = StyleSheet.create({
     borderRadius: 30,
     alignItems: 'center',
     justifyContent: 'center',
-    position: "absolute",
-    right: 3,
-    top: "205%"
+    position:"absolute",
+    right:3,
+    zIndex:99
   },
 });
 
