@@ -52,6 +52,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     position:"absolute",
     right:3,
+    bottom:"6%",
     zIndex:99
   },
 });
